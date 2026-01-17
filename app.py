@@ -167,3 +167,5 @@ tk.Button(root, text="Generate Receipt", command=generate_receipt).grid(row=10, 
 tk.Button(root, text="New Transaction / Clear All", command=new_transaction).grid(row=11, column=0, columnspan=2)
 
 root.mainloop()
+
+# new line in a new branch
